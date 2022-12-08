@@ -1,18 +1,18 @@
 // Config for the entire site.
 module.exports = {
   // Site title.
-  title: "Contact Bryon Tjanaka",
+  title: "Contact Jiaxin Chen",
 
   // Default description for pages. Provide "description" in the front matter of
   // a page to override this.
-  description: "Contact info for Bryon Tjanaka.",
+  description: "Contact info for Jiaxin Chen.",
 
   // Site URLs.
-  baseUrl: "https://contact.btjanaka.net", // No slash at the end.
-  shortBaseUrl: "contact.btjanaka.net", // Same as baseUrl but without http or https.
+  baseUrl: "https://contact.jchen.net", // No slash at the end.
+  shortBaseUrl: "contact.jchen.net", // Same as baseUrl but without http or https.
 
   // Your name.
-  name: "Bryon Tjanaka",
+  name: "Jiaxin Chen",
 
   // Profile picture on home page. Set to null to leave out.
   profilePic: {
@@ -25,7 +25,7 @@ module.exports = {
 
   // Tagline that shows up below the profile picture on the home page and below
   // the name on the business card. Set to null to leave out.
-  tagline: "PhD Candidate, ICAROS Lab @ USC",
+  tagline: "PhD Candidate, Renewable Energy @ UoE",
 
   // Path to Open Graph image. Change this URL whenever the image changes so
   // that sites like FB change their preview. Set to null to leave out.
